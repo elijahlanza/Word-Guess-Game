@@ -1,0 +1,29 @@
+.panel{
+color: blue;
+background-color: pink;
+align-content: center;
+}
+
+.guesses {
+    color: blue;
+    background-color: yellow;
+    align-content: left;
+}
+
+.wins { 
+    color: blue; 
+    background-color: yellow; 
+    align-content: left;
+}
+
+.losses{
+color:blue;
+background-color: yellow;
+}
+
+
+
+
+
+
+
